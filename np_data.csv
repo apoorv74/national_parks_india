@@ -1,0 +1,95 @@
+"S.No.","Name","Area of park (sq km)","Date of establishment","District","State","latitude","longitude"
+"1","Kasu Brahmananda Reddy",1.42,1994,"Hyderabad","Andhra Pradesh",17.420411,78.421564
+"2","Mahaveer Harina Vanasthali",14.59,1994,"Hyderabad","Andhra Pradesh",17.343575,78.585902
+"3","Mrugavani",3.6,1994,"Hyderabad","Andhra Pradesh",17.353993,78.335303
+"4","Sri Venkateswara",353.62,1989,"Chittor & Cuddapah","Andhra Pradesh",13.691686,79.342584
+"5","Mouling",483,1986,"Upper Siang","Arunachal Pradesh",28.473762,94.748312
+"6","Naldapha",1985.23,1983,"Changlang","Arunachal Pradesh",27.668938,95.362487
+"7","Dibru-Saikhowa",340,1999,"Tinsukia & Dibrugarh","Assam",26.577617,93.171787
+"8","Kaziranga",471.71,1974,"Golaghat & Nagaon","Assam",26.745946,91.020322
+"9","Manas",500,1990,"Barpeta & Bongaigaon","Assam",26.932508,92.877685
+"10","Nameri",200,1998,"Sonitpur","Asam",26.553765,92.331905
+"11","Orang",78.8,1999,"Darrang & Sonitpur","Assam",26.627545,92.495096
+"12","Valmiki",335.65,1989,"Pashchim Champaran","Bihar",27.380012,84.143379
+"13","Indravati",1258.37,1981,"Dantewada","Chhattishgarh",19.205874,81.031256
+"14","Kangerghati",200,1982,"Kanker","Chhattishgarh",18.77869,81.997046
+"15","Sanjay",1471.13,1981,"Surguja, Koria","Chhattishgarh",23.867779,82.062505
+"16","Mollem",107,1978,"North Goa","Goa",15.333829,74.288375
+"17","Bansda",23.99,1979,"Valsad","Gujarat",20.693434,73.535801
+"18","Gir",258.71,1975,"Junagadh","Gujarat",21.124425,70.824623
+"19","Marine (Gulf of Kachchh)",162.89,1980,"Jamnagar","Gujarat",22.464686,69.726019
+"20","Blackbuck",34.08,1976,"Bhavnagar","Gujarat",22.047162,72.033601
+"21","Kalesar",46.82,2003,"Yamuna Nagar","Haryana",30.391475,77.51769
+"22","Sultanpur",1.43,1989,"Gurgaon","Haryana",28.461328,76.890714
+"23","Great Himalayan",754.4,1984,"Kullu","Himachal Pradesh",31.645752,77.364292
+"24","Pin Valley",675,1987,"Lahul & Spiti","Himachal Pradesh",31.999572,77.882524
+"25","City Forest (Salim Ali)",9.07,1992,"Srinagar","Jammu & Kashmir",34.088088,74.873147
+"26","Dachigam",141,1981,"Srinagar","Jammu & Kashmir",34.133663,75.034453
+"27","Hemis",4100,1981,"Ladakh","Jammu & Kashmir",33.756262,77.283261
+"28","Kistwar",400,1981,"Doda","Jammu & Kashmir",33.61796,75.992765
+"29","Betla",231.67,1986,"Palamau","Jharkhand",23.908009,84.230337
+"30","Anshi",250,1987,"Uttara kannada","Karnataka",14.998141,74.358726
+"31","Bandipur",874.2,1974,"Chamarajanagar","Karnataka",11.666282,76.628582
+"32","Bannerghatta",104.27,1974,"Bangalore","Karnataka",12.800919,77.577579
+"33","Kudremukh",600.32,1987,"Chikmagalur & Dakshin Kannada","Karnataka",13.224467,75.250565
+"34","Nagarahole (Rajiv Gandhi)",643.39,1983,"Mysore & Kodagu","Karnataka",12.009506,76.122093
+"35","Anamudi",7.5,2003,"-","Kerala",10.190343,77.17737
+"36","Eravikulam",97,1978,"Idukki","Kerala",10.137027,77.065242
+"37","Mathikettan Shola",12.82,2003,"Idukki","kerala",9.984674,77.246166
+"38","Pambadum Shola",1.318,2003,"-","kerala",10.183071,77.25781
+"39","Periyar",350,1982,"Idukki","Kerala",9.462134,77.236869
+"40","Silent Valley",89.52,1984,"Palakhad","Kerala",11.068313,76.520075
+"41","Bandhavgarh",448.85,1982,"Umaria & Jabalpur","Madhya Pradesh",23.722377,81.023627
+"42","Fossil",0.27,1983,"Mandla","Madhya Pradesh",23.110267,80.615141
+"43","Kanha",940,1955,"Mandla & Balaghat","Madhya Pradesh",22.334079,80.612564
+"44","Madhav",375.22,1959,"Shivpuri","Madhya Pradesh",25.431803,77.738689
+"45","Panna",542.67,1973,"Panna & Chhatarpur","Madhya Pradesh",24.590339,79.941612
+"46","Pench (Priyadarshini)",292.85,1975,"Seoni & Chhindwara","Madhya Pradesh",22.016597,79.829706
+"47","Sanjay",466.88,1981,"Sidhi","Madhya Pradesh",23.867857,82.062462
+"48","Satpura",585.17,1981,"Hoshangabad","Madhya Pradesh",22.45312,78.118343
+"49","Van Vihar",4.45,1979,"Bhopal","Madhya Pradesh",23.231581,77.367607
+"50","Gugamal",361.28,1987,"Amravati","Maharashtra",21.405972,77.148527
+"51","Nawegaon",133.88,1975,"Bhandara & Gondia","Maharashtra",20.975557,80.165368
+"52","Pench",257.26,1975,"Nagpur","Maharashtra",21.484601,79.18237
+"53","Sanjay Gandhi (Borivilli)",86.96,1983,"Thane & Mumbai-Suburban","Maharashtra",19.229625,72.896286
+"54","Tadoba",116.55,1955,"Chandrapur","Maharashtra",20.211355,79.407428
+"55","Keibul-Lamjao",40,1977,"Bishnupur","Manipur",24.546696,93.845366
+"56","Balphakram",220,1986,"South Garo Hills","Meghalaya",25.320695,90.809973
+"57","Nokrek",47.48,1986,"East, West & South Garo Hills","Meghalaya",25.443009,90.445466
+"58","Murlen",200,1991,"Champhai","Mizoram",23.657336,93.278386
+"59","Phawngpui Blue Mountain",50,1997,"Chhimtuipui (E)","Mizoram",23.382613,92.718316
+"60","Intanki",202.02,1993,"Dimapur","Nagaland",25.54973,93.520543
+"61","Bhitarkanika",145,1988,"Kendrapara","Orissa",20.237191,84.266935
+"62","Simlipal",845.7,1986,"Mayurbhanj","Orissa",21.769172,86.346468
+"63","Darrah",265.8,2003,"Kota","Rajasthan",24.835004,76.006601
+"64","Desert",3162,1980,"Barmer & Jaisalmer","Rajasthan",26.819127,70.520969
+"65","Keoladeo Ghana",28.73,1981,"Bharatpur","Rajasthan",27.159183,77.5232
+"66","Ranthambore",392,1980,"Sawai Madhopur","Rajasthan",26.017327,76.503014
+"67","Sariska",273.8,1992,"Alwar","Rajasthan",27.32848,76.433073
+"68","Khangchendzonga",1784,1977,"North & West Sikkim","Sikkim",27.606725,88.186191
+"69","Guindy",2.82,1976,"Chennai","Tamil Nadu",13.003511,80.229496
+"70","Gulf of Mannar Marine",6.23,1980,"Ramanathpuram & Tuticorin","Tamil Nadu",9.12832,79.46367
+"71","Indira Gandhi (Annamalai)",117.1,1989,"Coimbatore","Tamil Nadu",10.42412,77.125625
+"72","Mudumalai",103.24,1990,"Nilgiris","Tamil Nadu",11.562256,76.534554
+"73","Mukurthi",78.46,1990,"Nilgiris","Tamil Nadu",11.427951,76.560447
+"74","Corbett",520.82,1936,"Nainital & Garhwal (Pauri)","Uttaranchal",29.529976,78.7748
+"75","Gangotri",1552,1989,"Uttarkashi","Uttaranchal",30.942622,79.155561
+"76","Govind",472.08,1990,"Uttarkashi","Uttaranchal",31.142571,78.338803
+"77","Nanda Devi",630,1982,"Chamoli","Uttaranchal",30.658828,79.83859
+"78","Rajaji",820,1983,"Dehradun, Garhwal & Haridwar","Uttaranchal",30.137794,78.043679
+"79","Valley of Flowers",87.5,1982,"Chamoli","Uttaranchal",30.728123,79.605732
+"80","Dudhwa",490,1977,"Lakhimpur Kheri","Uttar pradesh",28.540208,80.617156
+"81","Buxa",117.1,1992,"Jalpaiguri","West Bengal",26.645944,89.549582
+"82","Gorumara",79.45,1994,"Jalpaiguri","West Bengal",26.756357,88.797587
+"83","Neora Valley",88,1986,"Darjeeling","West Bengal",27.096827,88.691674
+"84","Singhalila",78.6,1986,"Darjeeling","West Bengal",27.037173,88.076234
+"85","Sunderbans",1330.1,1984,"North & South 24-Paraganas","West Bengal",22.141384,88.885944
+"86","Campbell Bay",429,1992,"Andaman","Andaman & Nicobar Islands",7.009596,93.905125
+"87","Galathea",110,1992,"Andaman","Andaman & Nicobar Islands",7.010469,93.90594
+"88","Mahatama Gandhi Marine",281.5,1983,"Andaman","Andaman & Nicobar Islands",11.58541,92.615261
+"89","Middle Button Island",0.64,1979,"Andaman","Andaman & Nicobar Islands",12.292367,93.031614
+"90","Mount Harriett",46.62,1979,"Andaman","Andaman & Nicobar Islands",11.716305,92.734565
+"91","North Button Island",0.44,1979,"Andaman","Andaman & Nicobar Islands",12.327306,93.063908
+"92","Rani Jhansi Marine",256.14,1996,"Andaman","Andaman & Nicobar Islands",11.827864,92.653333
+"93","Saddle Peak",32.54,1979,"Andaman","Andaman & Nicobar Islands",13.158221,93.006306
+"94","South Button Island",0.03,1977,"Andaman","Andaman & Nicobar Islands",12.225703,93.032644
