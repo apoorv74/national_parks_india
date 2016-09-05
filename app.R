@@ -3,7 +3,7 @@ library(ggmap)
 library(shiny)
 library(dplyr)
 
-setwd("~/Downloads/national_parks/")
+# setwd("~/Downloads/national_parks/")
 
 # Building an app ---------------------------------------------------------
 
