@@ -1,0 +1,11 @@
+<OGRVRTDataSource>
+    <OGRVRTUnionLayer name="union">
+        <OGRVRTLayer name="india_line">
+            <SrcDataSource>india_line.shp</SrcDataSource>
+        </OGRVRTLayer>
+        <OGRVRTLayer name="Dist2011">
+            <SrcDataSource>Dist2011.shp</SrcDataSource>
+        </OGRVRTLayer>
+        <GeometryType>wkbGeometryCollection</GeometryType>
+    </OGRVRTUnionLayer>
+</OGRVRTDataSource>

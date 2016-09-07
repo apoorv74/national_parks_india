@@ -1,686 +1,683 @@
-state,district
-Jammu & Kashmir,Kupwara
-Jammu & Kashmir,Badgam
-Jammu & Kashmir,Leh (Ladakh)
-Jammu & Kashmir,Kargil
-Jammu & Kashmir,Punch
-Jammu & Kashmir,Rajauri
-Jammu & Kashmir,Kathua
-Jammu & Kashmir,Baramula
-Jammu & Kashmir,Bandipore
-Jammu & Kashmir,Srinagar
-Jammu & Kashmir,Ganderbal
-Jammu & Kashmir,Pulwama
-Jammu & Kashmir,Shupiyan
-Jammu & Kashmir,Anantnag
-Jammu & Kashmir,Kulgam
-Jammu & Kashmir,Doda
-Jammu & Kashmir,Ramban
-Jammu & Kashmir,Kishtwar
-Jammu & Kashmir,Udhampur
-Jammu & Kashmir,Reasi
-Jammu & Kashmir,Jammu 
-Jammu & Kashmir,Samba
-Himachal Pradesh,Chamba
-Himachal Pradesh,Kangra
-Himachal Pradesh,Lahul & Spiti
-Himachal Pradesh,Kullu
-Himachal Pradesh,Mandi
-Himachal Pradesh,Hamirpur
-Himachal Pradesh,Una
-Himachal Pradesh,Bilaspur
-Himachal Pradesh,Solan
-Himachal Pradesh,Sirmaur
-Himachal Pradesh,Shimla
-Himachal Pradesh,Kinnaur
-Punjab,Kapurthala 
-Punjab,Jalandhar
-Punjab,Hoshiarpur
-Punjab,Shahid Bhagat Singh Nagar 
-Punjab,Fatehgarh Sahib
-Punjab,Ludhiana
-Punjab,Moga
-Punjab,Muktsar
-Punjab,Faridkot
-Punjab,Bathinda
-Punjab,Mansa
-Punjab,Patiala
-Punjab,Amritsar 
-Punjab,Tarn Taran
-Punjab,Rupnagar
-Punjab,Sahibzada Ajit Singh Nagar
-Punjab,Sangrur
-Punjab,Barnala
-CHANDIGARH,Chandigarh
-Uttarakhand,Uttarkashi
-Uttarakhand,Chamoli
-Uttarakhand,Rudraprayag
-Uttarakhand,Tehri Garhwal
-Uttarakhand,Dehradun
-Uttarakhand,Garhwal
-Uttarakhand,Pithoragarh
-Uttarakhand,Bageshwar
-Uttarakhand,Almora
-Uttarakhand,Champawat
-Uttarakhand,Nainital
-Uttarakhand,Udham Singh Nagar
-Uttarakhand,Hardwar
-Haryana,Panchkula
-Haryana,Ambala
-Haryana,Yamunanagar
-Haryana,Kurukshetra
-Haryana,Kaithal
-Haryana,Karnal
-Haryana,Panipat
-Haryana,Sonipat
-Haryana,Jind
-Haryana,Fatehabad
-Haryana,Sirsa
-Haryana,Hisar
-Haryana,Bhiwani
-Haryana,Rohtak
-Haryana,Jhajjar
-Haryana,Mahendragarh
-Haryana,Rewari
-Haryana,Gurgaon
-Haryana,Mewat 
-Haryana,Faridabad
-Haryana,Palwal 
-Rajasthan,Ganganagar 
-Rajasthan,Hanumangarh
-Rajasthan,Bikaner
-Rajasthan,Churu 
-Rajasthan,Jhunjhunun
-Rajasthan,Alwar
-Rajasthan,Bharatpur 
-Rajasthan,Dhaulpur
-Rajasthan,Karauli 
-Rajasthan,Sawai Madhopur 
-Rajasthan,Dausa 
-Rajasthan,Jaipur 
-Rajasthan,Sikar
-Rajasthan,Nagaur
-Rajasthan,Jodhpur
-Rajasthan,Jaisalmer
-Rajasthan,Barmer 
-Rajasthan,Jalor
-Rajasthan,Sirohi
-Rajasthan,Pali 
-Rajasthan,Ajmer
-Rajasthan,Tonk 
-Rajasthan,Bundi 
-Rajasthan,Bhilwara
-Rajasthan,Rajsamand
-Rajasthan,Dungarpur 
-Rajasthan,Banswara 
-Rajasthan,Chittaurgarh 
-Rajasthan,Kota 
-Rajasthan,Baran 
-Rajasthan,Jhalawar
-Rajasthan,Udaipur
-Rajasthan,Pratapgarh 
-Uttar Pradesh,Saharanpur
-Uttar Pradesh,Bijnor
-Uttar Pradesh,Rampur
-Uttar Pradesh,Jyotiba Phule Nagar
-Uttar Pradesh,Meerut
-Uttar Pradesh,Baghpat
-Uttar Pradesh,Gautam Buddha Nagar
-Uttar Pradesh,Bulandshahar 
-Uttar Pradesh,Aligarh
-Uttar Pradesh,Mahamaya Nagar
-Uttar Pradesh,Mathura
-Uttar Pradesh,Agra
-Uttar Pradesh,Firozabad
-Uttar Pradesh,Mainpuri
-Uttar Pradesh,Bareilly
-Uttar Pradesh,Pilibhit
-Uttar Pradesh,Shahjahanpur
-Uttar Pradesh,Kheri
-Uttar Pradesh,Sitapur
-Uttar Pradesh,Hardoi
-Uttar Pradesh,Unnao
-Uttar Pradesh,Lucknow
-Uttar Pradesh,Farrukhabad
-Uttar Pradesh,Kannauj
-Uttar Pradesh,Etawah
-Uttar Pradesh,Auraiya
-Uttar Pradesh,Kanpur Dehat
-Uttar Pradesh,Kanpur Nagar
-Uttar Pradesh,Jalaun 
-Uttar Pradesh,Jhansi
-Uttar Pradesh,Lalitpur
-Uttar Pradesh,Hamirpur
-Uttar Pradesh,Mahoba
-Uttar Pradesh,Banda
-Uttar Pradesh,Chitrakoot
-Uttar Pradesh,Fatehpur
-Uttar Pradesh,Pratapgarh
-Uttar Pradesh,Kaushambi
-Uttar Pradesh,Allahabad 
-Uttar Pradesh,Barabanki
-Uttar Pradesh,Faizabad
-Uttar Pradesh,Ambedkar Nagar
-Uttar Pradesh,Bahraich
-Uttar Pradesh,Shrawasti
-Uttar Pradesh,Balrampur
-Uttar Pradesh,Gonda
-Uttar Pradesh,Siddharthnagar
-Uttar Pradesh,Basti
-Uttar Pradesh,S. Kabir Nagar
-Uttar Pradesh,Maharajganj
-Uttar Pradesh,Gorakhpur
-Uttar Pradesh,Kushinagar
-Uttar Pradesh,Deoria
-Uttar Pradesh,Azamgarh
-Uttar Pradesh,Mau
-Uttar Pradesh,Ballia
-Uttar Pradesh,Jaunpur
-Uttar Pradesh,Ghazipur
-Uttar Pradesh,Chandauli
-Uttar Pradesh,Varanasi
-Uttar Pradesh,S.R.Nagar
-Uttar Pradesh,Mirzapur
-Uttar Pradesh,Sonbhadra
-Uttar Pradesh,Etah
-Uttar Pradesh,Kanshiram Nagar
-Bihar,Pashchim Champaran
-Bihar,Purba Champaran
-Bihar,Sheohar
-Bihar,Sitamarhi
-Bihar,Madhubani
-Bihar,Supaul
-Bihar,Araria
-Bihar,Kishanganj
-Bihar,Purnia
-Bihar,Katihar
-Bihar,Madhepura
-Bihar,Saharsa
-Bihar,Darbhanga
-Bihar,Muzaffarpur
-Bihar,Gopalganj
-Bihar,Siwan
-Bihar,Saran
-Bihar,Vaishali
-Bihar,Samastipur
-Bihar,Begusarai
-Bihar,Khagaria
-Bihar,Bhagalpur
-Bihar,Banka
-Bihar,Munger
-Bihar,Lakhisarai
-Bihar,Sheikhpura
-Bihar,Nalanda
-Bihar,Patna
-Bihar,Bhojpur
-Bihar,Buxar
-Bihar,Kaimur (Bhabua)
-Bihar,Rohtas
-Bihar,Aurangabad
-Bihar,Gaya
-Bihar,Nawada
-Bihar,Jamui
-Bihar,Jehanabad 
-Bihar,Arwal
-Sikkim,North 
-Sikkim,West
-Sikkim,South
-Sikkim,East
-Arunachal Pradesh,Tawang
-Arunachal Pradesh,West Kameng
-Arunachal Pradesh,East Kameng
-Arunachal Pradesh,Papum Pare
-Arunachal Pradesh,Upper Subansiri
-Arunachal Pradesh,West Siang
-Arunachal Pradesh,Upper Siang
-Arunachal Pradesh,Changlang
-Arunachal Pradesh,Lower Subansiri
-Arunachal Pradesh,Dibang Valley
-Arunachal Pradesh,Lower Dibang Valley
-Arunachal Pradesh,Anjaw
-Nagaland,Mon
-Nagaland,Mokokchung
-Nagaland,Zunheboto
-Nagaland,Wokha
-Nagaland,Dimapur 
-Nagaland,Phek
-Nagaland,Tuensang
-Nagaland,Longleng
-Nagaland,Kiphire
-Nagaland,Kohima
-Nagaland,Peren
-Manipur,Senapati
-Manipur,Tamenglong 
-Manipur,Churuchandpur
-Manipur,Bishnupur
-Manipur,Thoubal
-Manipur,Imphal West
-Manipur,Imphal 
-Manipur,Ukhrul
-Manipur,Chandel
-Mizoram,Mamit
-Mizoram,Kolasib
-Mizoram,Aizawl
-Mizoram,Champhai
-Mizoram,Serchhip
-Mizoram,Lunglei
-Mizoram,Lawngtlai
-Mizoram,Saiha
-Tripura,Dhalai
-Meghalaya,South Garo Hills
-Meghalaya,Ri Bhoi
-Meghalaya,East Khasi Hills
-Meghalaya,Jaintia Hills
-Assam,Kokrajhar
-Assam,Goalpara
-Assam,Barpeta
-Assam,Marigaon
-Assam,Lakhimpur
-Assam,Dhemaji
-Assam,Tinsukia
-Assam,Dibrugarh
-Assam,Jorhat
-Assam,Golaghat
-Assam,Dima Hasao
-Assam,Cachar
-Assam,Karimganj
-Assam,Hailakandi
-Assam,Bongaigaon
-Assam,Chirang
-Assam,Nalbari
-Assam,Baksa
-Assam,Darrang
-Assam,Udalguri
-West Bengal,Darjiling 
-West Bengal,Koch Bihar 
-West Bengal,Uttar Dinajpur
-West Bengal,Dakshin Dinajpur
-West Bengal,Maldah 
-West Bengal,Murshidabad 
-West Bengal,Birbhum
-West Bengal,Barddhaman 
-West Bengal,Nadia 
-West Bengal,North Twenty Four Parganas
-West Bengal,Hugli 
-West Bengal,Bankura 
-West Bengal,Puruliya
-West Bengal,Haora 
-West Bengal,Kolkata
-West Bengal,South  Twenty Four Parganas
-West Bengal,Paschim Medinipur
-West Bengal,Purba Medinipur
-Jharkhand,Garhwa 
-Jharkhand,Chatra
-Jharkhand,Koderma
-Jharkhand,Giridih
-Jharkhand,Deoghar
-Jharkhand,Godda
-Jharkhand,Sahibganj
-Jharkhand,Pakaur
-Jharkhand,Dhanbad
-Jharkhand,Bokaro
-Jharkhand,Lohardaga
-Jharkhand,Purbi Singhbhum
-Jharkhand,Palamu
-Jharkhand,Latehar
-Jharkhand,Hazaribagh
-Jharkhand,Ramgarh
-Jharkhand,Dumka
-Jharkhand,Jamtara
-Jharkhand,Ranchi
-Jharkhand,Khunti
-Jharkhand,Gumla
-Jharkhand,Simdega
-Jharkhand,Pashchimi Singhbhum
-Jharkhand,Sarikela-Kharswana
-Odisha,Bargarh
-Odisha,Jharsuguda
-Odisha,Sambalpur
-Odisha,Debagarh
-Odisha,Sundargarh
-Odisha,Kendujhar
-Odisha,Mayurbhanj
-Odisha,Baleshwar
-Odisha,Bhadrak
-Odisha,Kendrapara 
-Odisha,Jagatsinghapur 
-Odisha,Cuttack
-Odisha,Jajapur  
-Odisha,Dhenkanal
-Odisha,Anugul  
-Odisha,Nayagarh  
-Odisha,Khordha 
-Odisha,Puri
-Odisha,Ganjam
-Odisha,Gajapati
-Odisha,Kandhamal
-Odisha,Baudh
-Odisha,Sonapur  
-Odisha,Balangir
-Odisha,Nuapada  
-Odisha,Kalahandi
-Odisha,Rayagada  
-Odisha,Nabarangapur 
-Odisha,Koraput
-Odisha,Malkangiri  
-Chhattisgarh,Koriya
-Chhattisgarh,Jashpur 
-Chhattisgarh,Raigarh
-Chhattisgarh,Korba 
-Chhattisgarh,Janjgir - Champa
-Chhattisgarh,Kabeerdham
-Chhattisgarh,Rajnandgaon
-Chhattisgarh,Mahasamund
-Chhattisgarh,Dhamtari 
-Chhattisgarh,Uttar Bastar
-Chhattisgarh,Narayanpur
-Chhattisgarh,Bijapur
-Madhya Pradesh,Sheopur 
-Madhya Pradesh,Morena
-Madhya Pradesh,Bhind
-Madhya Pradesh,Gwalior
-Madhya Pradesh,Datia
-Madhya Pradesh,Shivpuri
-Madhya Pradesh,Tikamgarh
-Madhya Pradesh,Chhatarpur
-Madhya Pradesh,Panna
-Madhya Pradesh,Sagar
-Madhya Pradesh,Damoh
-Madhya Pradesh,Satna
-Madhya Pradesh,Rewa
-Madhya Pradesh,Umaria
-Madhya Pradesh,Neemuch 
-Madhya Pradesh,Mandsaur
-Madhya Pradesh,Ratlam
-Madhya Pradesh,Ujjain
-Madhya Pradesh,Dewas
-Madhya Pradesh,Dhar
-Madhya Pradesh,Indore
-Madhya Pradesh,West Nimar
-Madhya Pradesh,Barwani 
-Madhya Pradesh,Rajgarh
-Madhya Pradesh,Vidisha
-Madhya Pradesh,Bhopal
-Madhya Pradesh,Sehore
-Madhya Pradesh,Raisen
-Madhya Pradesh,Betul
-Madhya Pradesh,Harda 
-Madhya Pradesh,Hoshangabad
-Madhya Pradesh,Katni 
-Madhya Pradesh,Jabalpur
-Madhya Pradesh,Narsimhapur
-Madhya Pradesh,Dindori 
-Madhya Pradesh,Mandla
-Madhya Pradesh,Chhindwara
-Madhya Pradesh,Seoni
-Madhya Pradesh,Balaghat
-Madhya Pradesh,Guna
-Madhya Pradesh,Ashoknagar
-Madhya Pradesh,Shahdol
-Madhya Pradesh,Anuppur
-Madhya Pradesh,Sidhi
-Madhya Pradesh,Singrauli
-Madhya Pradesh,Jhabua
-Madhya Pradesh,Alirajpur
-Madhya Pradesh,East Nimar
-Madhya Pradesh,Burhanpur
-Gujarat,Kachchh
-Gujarat,Banas Kantha
-Gujarat,Patan  
-Gujarat,Mahesana
-Gujarat,Gandhinagar
-Gujarat,Porbandar 
-Gujarat,Amreli
-Gujarat,Anand  
-Gujarat,Dohad  
-Gujarat,Narmada
-Gujarat,Bharuch
-Gujarat,The Dangs
-Gujarat,Navsari  
-Gujarat,Valsad
-Gujarat,Surat
-Gujarat,Tapi
-Daman & Diu,Diu
-Daman & Diu,Daman
-DADRA & NAGAR HAVELI,Dadra & Nagar Haveli
-Maharashtra,Nandurbar
-Maharashtra,Dhule
-Maharashtra,Jalgaon
-Maharashtra,Buldana
-Maharashtra,Akola
-Maharashtra,Washim
-Maharashtra,Amravati
-Maharashtra,Wardha
-Maharashtra,Nagpur
-Maharashtra,Bhandara
-Maharashtra,Gondiya
-Maharashtra,Gadchiroli
-Maharashtra,Chandrapur
-Maharashtra,Yavatmal
-Maharashtra,Nanded
-Maharashtra,Hingoli
-Maharashtra,Parbhani
-Maharashtra,Jalna
-Maharashtra,Aurangabad
-Maharashtra,Nashik
-Maharashtra,Mumbai (Suburban)
-Maharashtra,Mumbai
-Maharashtra,Raigarh
-Maharashtra,Pune
-Maharashtra,Ahmadnagar
-Maharashtra,Bid
-Maharashtra,Latur
-Maharashtra,Osmanabad
-Maharashtra,Solapur
-Maharashtra,Satara
-Maharashtra,Ratnagiri
-Maharashtra,Sindhudurg
-Maharashtra,Kolhapur
-Maharashtra,Sangli
-Telangana,Adilabad
-Telangana,Nizamabad
-Telangana,Karimnagar
-Telangana,Medak
-Telangana,Hyderabad
-Telangana,Rangareddi
-Telangana,Mahbubnagar
-Telangana,Nalgonda
-Telangana,Warangal
-Telangana,Khammam
-Andhra Pradesh,Srikakulam
-Andhra Pradesh,Vizianagaram
-Andhra Pradesh,Visakhapatnam
-Andhra Pradesh,East Godavari
-Andhra Pradesh,West Godavari
-Andhra Pradesh,Krishna
-Andhra Pradesh,Guntur
-Andhra Pradesh,Prakasam
-Andhra Pradesh,Nellore
-Andhra Pradesh,YSR
-Andhra Pradesh,Kurnool
-Andhra Pradesh,Anantapur
-Andhra Pradesh,Chittoor
-Karnataka,Belgaum
-Karnataka,Bagalkot 
-Karnataka,Bijapur
-Karnataka,Bidar
-Karnataka,Raichur
-Karnataka,Koppal
-Karnataka,Gadag
-Karnataka,Dharwad
-Karnataka,Uttara Kannada
-Karnataka,Haveri
-Karnataka,Bellary
-Karnataka,Chitradurga
-Karnataka,Davanagere
-Karnataka,Shimoga
-Karnataka,Udupi
-Karnataka,Chikmagalur
-Karnataka,Tumkur
-Karnataka,Bangalore
-Karnataka,Mandya
-Karnataka,Hassan
-Karnataka,Dakshina Kannada
-Karnataka,Kodagu
-Karnataka,Mysore
-Karnataka,Chamarajanagar
-Karnataka,Gulbarga
-Karnataka,Yadgir
-Karnataka,Kolar
-Karnataka,Chikkaballapura
-Karnataka,Bangalore Rural
-Karnataka,Ramanagara
-GOA,North Goa
-GOA,South Goa
-LAKSHADWEEP,Lakshadweep
-Kerala,Kasaragod
-Kerala,Kannur
-Kerala,Wayanad
-Kerala,Kozhikode
-Kerala,Malappuram
-Kerala,Palakkad
-Kerala,Thrissur
-Kerala,Ernakulam
-Kerala,Idukki 
-Kerala,Kottayam
-Kerala,Alappuzha
-Kerala,Pathanamthitta
-Kerala,Kollam
-Kerala,Thiruvananthapuram
-Tamil Nadu,Thiruvallur
-Tamil Nadu,Chennai
-Tamil Nadu,Kancheepuram
-Tamil Nadu,Vellore
-Tamil Nadu,Tiruvannamalai
-Tamil Nadu,Viluppuram
-Tamil Nadu,Salem
-Tamil Nadu,Namakkal   
-Tamil Nadu,Erode
-Tamil Nadu,The Nilgiris
-Tamil Nadu,Dindigul
-Tamil Nadu,Karur 
-Tamil Nadu,Tiruchirappalli
-Tamil Nadu,Perambalur  
-Tamil Nadu,Ariyalur  
-Tamil Nadu,Cuddalore
-Tamil Nadu,Nagapattinam  
-Tamil Nadu,Thiruvarur
-Tamil Nadu,Thanjavur
-Tamil Nadu,Pudukkottai
-Tamil Nadu,Sivaganga
-Tamil Nadu,Madurai
-Tamil Nadu,Theni  
-Tamil Nadu,Virudhunagar
-Tamil Nadu,Ramanathapuram
-Tamil Nadu,Thoothukkudi
-Tamil Nadu,Tirunelveli 
-Tamil Nadu,Kanniyakumari
-Tamil Nadu,Dharmapuri
-Tamil Nadu,Krishnagiri
-Tamil Nadu,Coimbatore
-Tamil Nadu,Tiruppur
-PONDICHERRY,Yanam
-PONDICHERRY,Puducherry
-PONDICHERRY,Mahe
-PONDICHERRY,Karaikal
-A & N Islands,Nicobars
-A & N Islands,North  & Middle Andaman
-A & N Islands,South Andaman
-Uttar Pradesh,Rae Bareli
-Uttar Pradesh,Sultanpur
-Uttar Pradesh,Chhatrapati Shahuji Maharaja Nagar
-Punjab,Gurdaspur
-Punjab,#REF!
-Punjab,Firozpur
-Punjab,#REF!
-Arunachal Pradesh,Tirap
-Arunachal Pradesh,LONGDING
-Tripura,West Tripura
-Tripura,Khowai
-Tripura,Sepahijala
-Tripura,South Tripura
-Tripura,Gomati
-Tripura,North Tripura
-Tripura,Unakoti
-Chhattisgarh,Surguja
-Chhattisgarh,Surajpur
-Chhattisgarh,Balrampur
-Chhattisgarh,Bilaspur
-Chhattisgarh,Mungeli
-Chhattisgarh,Durg
-Chhattisgarh,Bemetara
-Chhattisgarh,Balod
-Chhattisgarh,Raipur
-Chhattisgarh,Baloda Bazar
-Chhattisgarh,Gariaband
-Chhattisgarh,Bastar
-Chhattisgarh,Kondagaon
-Chhattisgarh,Dakshin Bastar
-Chhattisgarh,Sukma
-Meghalaya,East Garo Hills
-Meghalaya,North Garo Hills
-Meghalaya,West Jaintia Hills
-Meghalaya,East Jaintia Hills
-Meghalaya,West Garo Hills
-Meghalaya,South West Garo Hills
-Meghalaya,West Khasi Hills
-Meghalaya,South West Khasi Hills
-Delhi,Central
-Delhi,East
-Delhi,New Delhi
-Delhi,North
-Delhi,North-East
-Delhi,North West
-Delhi,Shahdara
-Delhi,South
-Delhi,South East
-Delhi,South-West
-Delhi,West
-Madhya Pradesh,Shajapur
-Madhya Pradesh,Agar Malwa
-Gujarat,Sabar Kantha
-Gujarat,Aravalli
-Gujarat,Ahmedabad
-Gujarat,Botad
-Gujarat,Bhavnagar
-Gujarat,Rajkot
-Gujarat,Morbi
-Gujarat,Surendranagar
-Gujarat,Jamnagar
-Gujarat,Devbhoomi Dwarka
-Gujarat,Junagadh
-Gujarat,Gir Somnath
-Gujarat,Kheda
-Gujarat,Panch Mahals
-Gujarat,Mahisagar
-Gujarat,Vadodara
-Gujarat,Chhota Udaipur
-Uttar Pradesh,Muzaffarnagar
-Uttar Pradesh,Prabudh Nagar
-Uttar Pradesh,Moradabad
-Uttar Pradesh,Budaun
-Uttar Pradesh,Bhim Nagar
-Uttar Pradesh,Ghaziabad
-Uttar Pradesh,Panchsheel Nagar
-West Bengal,Jalpaiguri
-West Bengal,Alipurduar
-Maharashtra,Thane
-Maharashtra,Palghar
-Arunachal Pradesh,Lohit
-Arunachal Pradesh,Namsai
-Arunachal Pradesh,Kurung Kumey
-Arunachal Pradesh,Kra Daadi
-Assam,Dhubri
-Assam,South Salmara-Mankachar
-Assam,Nagaon
-Assam,Hojai
-Assam,Sonitpur
-Assam,Biswanath
-Assam,Sibsagar
-Assam,Charaideo
-Assam,Karbi Anglong
-Assam,West Karbi Anglong
-Arunachal Pradesh,East Siang
-Arunachal Pradesh,Siang
-Assam,Kamrup
-Assam,Kamrup Metropolitan
+"state","district","long","lat"
+"jammu & kashmir","kupwara",74.1189692086,34.4283860101
+"jammu & kashmir","badgam",74.6559682064,33.9137703027
+"jammu & kashmir","leh (ladakh)",78.4135494156,34.2995670603
+"jammu & kashmir","kargil",76.4169431437,33.9581219795
+"jammu & kashmir","punch",74.2338748779,33.6650586906
+"jammu & kashmir","rajauri",74.359132667,33.2330598283
+"jammu & kashmir","kathua",75.5656268592,32.5546223189
+"jammu & kashmir","baramula",74.2529768264,34.0891725881
+"jammu & kashmir","bandipore",74.8154623319,34.4836341381
+"jammu & kashmir","srinagar",74.9311799107,34.1183164842
+"jammu & kashmir","ganderbal",75.0427329832,34.2965642738
+"jammu & kashmir","pulwama",75.0275503402,33.9458667526
+"jammu & kashmir","shupiyan",74.8220439855,33.7411161122
+"jammu & kashmir","anantnag",75.2912816746,33.8253219096
+"jammu & kashmir","kulgam",74.857995088,33.6088461929
+"jammu & kashmir","doda",75.6788683503,33.0849605876
+"jammu & kashmir","ramban",75.1702895061,33.3250187456
+"jammu & kashmir","kishtwar",75.9150608108,33.5456633765
+"jammu & kashmir","udhampur",75.2697810266,32.8760258065
+"jammu & kashmir","reasi",74.8333568607,33.2219189158
+"jammu & kashmir","jammu ",74.6616925414,32.7797502875
+"jammu & kashmir","samba",75.029530086,32.5771348881
+"himachal pradesh","chamba",76.3668279288,32.6715860362
+"himachal pradesh","kangra",76.3273383516,32.0914723943
+"himachal pradesh","lahul & spiti",77.6275559369,32.4763288583
+"himachal pradesh","kullu",77.4039023932,31.8972832593
+"himachal pradesh","mandi",77.0000953624,31.624811428
+"himachal pradesh","hamirpur",76.5391118232,31.6523036478
+"himachal pradesh","una",76.223413631,31.5642405984
+"himachal pradesh","bilaspur",76.6716823237,31.3571507182
+"himachal pradesh","solan",76.9180921224,31.0351038266
+"himachal pradesh","sirmaur",77.4348417489,30.662184886
+"himachal pradesh","shimla",77.6359697613,31.1901404493
+"himachal pradesh","kinnaur",78.4108734788,31.5911632788
+"punjab","kapurthala ",75.4219356164,31.3382638226
+"punjab","jalandhar",75.5752761833,31.2018967454
+"punjab","hoshiarpur",75.8749802045,31.6124325399
+"punjab","shahid bhagat singh nagar ",76.1576170873,31.0977349774
+"punjab","fatehgarh sahib",76.3761080258,30.6447139247
+"punjab","ludhiana",75.838872862,30.7959948022
+"punjab","moga",75.1819139952,30.7572574323
+"punjab","muktsar",74.5503549663,30.2702209338
+"punjab","faridkot",74.78269876,30.600049276
+"punjab","bathinda",75.0487390141,30.1719231835
+"punjab","mansa",75.4471713313,29.8883480503
+"punjab","patiala",76.3567781818,30.2814159339
+"punjab","amritsar ",74.9228345822,31.6992825813
+"punjab","tarn taran",74.856864616,31.3133829727
+"punjab","rupnagar",76.4955508563,31.0506757285
+"punjab","sahibzada ajit singh nagar",76.7473287192,30.6699115993
+"punjab","sangrur",75.8725567215,30.2028046114
+"punjab","barnala",75.5106634343,30.3796936229
+"chandigarh","chandigarh",76.7779356632,30.7278896452
+"uttarakhand","uttarkashi",78.6082219418,30.9643931624
+"uttarakhand","chamoli",79.5856911819,30.4905352994
+"uttarakhand","rudraprayag",79.0681117377,30.5092043845
+"uttarakhand","tehri garhwal",78.5434645787,30.4362315756
+"uttarakhand","dehradun",77.9716376472,30.4608494549
+"uttarakhand","garhwal",78.7792241995,29.8803288641
+"uttarakhand","pithoragarh",80.3592297791,30.0923893944
+"uttarakhand","bageshwar",79.8647303291,29.9941360287
+"uttarakhand","almora",79.5179386885,29.6865875265
+"uttarakhand","champawat",80.0687696055,29.2801708831
+"uttarakhand","nainital",79.4557865734,29.312632623
+"uttarakhand","udham singh nagar",79.4819691122,29.035521989
+"uttarakhand","hardwar",78.0071880974,29.8832252732
+"haryana","panchkula",76.9789405847,30.6752112836
+"haryana","ambala",76.9418774818,30.3157932891
+"haryana","yamunanagar",77.3061724115,30.235794588
+"haryana","kurukshetra",76.7869646807,30.0331719603
+"haryana","kaithal",76.4174702468,29.8060119364
+"haryana","karnal",76.8833988104,29.6830744547
+"haryana","panipat",76.9297825592,29.3276052208
+"haryana","sonipat",76.8800387453,29.0427357841
+"haryana","jind",76.3165124135,29.4213067877
+"haryana","fatehabad",75.5998054026,29.5565424139
+"haryana","sirsa",74.909772878,29.5946147549
+"haryana","hisar",75.8255425265,29.2033036106
+"haryana","bhiwani",75.9780766849,28.7046805115
+"haryana","rohtak",76.5346144993,28.8967952732
+"haryana","jhajjar",76.656395396,28.5974319696
+"haryana","mahendragarh",76.1544139375,28.1536783172
+"haryana","rewari",76.5568898656,28.2313146071
+"haryana","gurgaon",76.9525029498,28.3676661432
+"haryana","mewat ",77.0528532835,27.9844963934
+"haryana","faridabad",77.3458478038,28.3518433192
+"haryana","palwal ",77.3382796558,28.0591567123
+"rajasthan","ganganagar ",73.5702559657,29.3918272409
+"rajasthan","hanumangarh",74.5593983101,29.2633912123
+"rajasthan","bikaner",73.0808126235,28.185137002
+"rajasthan","churu ",74.5760463776,28.2965394961
+"rajasthan","jhunjhunun",75.5502528672,28.0924983289
+"rajasthan","alwar",76.6064550195,27.5888211378
+"rajasthan","bharatpur ",77.2799666403,27.2434326097
+"rajasthan","dhaulpur",77.7030913155,26.6799916937
+"rajasthan","karauli ",76.9535261982,26.5247712144
+"rajasthan","sawai madhopur ",76.4635219849,26.2120213234
+"rajasthan","dausa ",76.5082009551,26.8596414218
+"rajasthan","jaipur ",75.716483403,26.9682878947
+"rajasthan","sikar",75.2933668927,27.6337548473
+"rajasthan","nagaur",74.1771777825,27.0646145531
+"rajasthan","jodhpur",72.7852689269,26.7472406213
+"rajasthan","jaisalmer",70.8998817412,27.0737375256
+"rajasthan","barmer",71.4730965807,25.7336594875
+"rajasthan","jalor",72.2127032577,25.0983114977
+"rajasthan","sirohi",72.7771079973,24.7615242595
+"rajasthan","pali",73.5197890516,25.7065811024
+"rajasthan","ajmer",74.7723447433,26.2298933097
+"rajasthan","tonk",75.6666471099,26.1429973504
+"rajasthan","bundi",75.7914488144,25.4848740449
+"rajasthan","bhilwara",74.7281387025,25.4797628685
+"rajasthan","rajsamand",73.8924657263,25.2300700667
+"rajasthan","dungarpur",73.8551260115,23.7328195676
+"rajasthan","banswara",74.3623422,23.4754879623
+"rajasthan","chittaurgarh",74.7747573527,24.8225727122
+"rajasthan","kota",76.1067915944,25.1070732528
+"rajasthan","baran",76.7494852028,24.9947087376
+"rajasthan","jhalawar",76.1948646295,24.3347374257
+"rajasthan","udaipur",73.6917074609,24.4164745015
+"rajasthan","pratapgarh",74.6550750945,24.0290497612
+"uttar pradesh","saharanpur",77.5485780107,29.9500177377
+"uttar pradesh","bijnor",78.3929240955,29.384594691
+"uttar pradesh","rampur",79.1167763284,28.8089479816
+"uttar pradesh","jyotiba phule nagar",78.3299291443,28.8101710565
+"uttar pradesh","meerut",77.7828830169,29.0365919871
+"uttar pradesh","baghpat",77.3079897748,29.0568272412
+"uttar pradesh","gautam buddha nagar",77.5575560485,28.3922371628
+"uttar pradesh","bulandshahar",78.015854625,28.3615445405
+"uttar pradesh","aligarh",78.0670663153,27.9240970783
+"uttar pradesh","mahamaya nagar",78.1615526735,27.5801244067
+"uttar pradesh","mathura",77.6225819322,27.6041623256
+"uttar pradesh","agra",78.0796841651,27.0396869268
+"uttar pradesh","firozabad",78.5334354528,27.1827666199
+"uttar pradesh","mainpuri",79.053055337,27.1815471037
+"uttar pradesh","bareilly",79.4310119276,28.4572691052
+"uttar pradesh","pilibhit",79.9751709855,28.5414339653
+"uttar pradesh","shahjahanpur",79.8480449205,27.9746271254
+"uttar pradesh","kheri",80.6702285054,28.1189969074
+"uttar pradesh","sitapur",80.8577084336,27.5171033528
+"uttar pradesh","hardoi",80.1643871026,27.3301436889
+"uttar pradesh","unnao",80.5635797432,26.6079915473
+"uttar pradesh","lucknow",80.907065167,26.8414064739
+"uttar pradesh","farrukhabad",79.4617528503,27.4307348864
+"uttar pradesh","kannauj",79.6928364077,27.0131851853
+"uttar pradesh","etawah",79.0980155017,26.7617036924
+"uttar pradesh","auraiya",79.4809949841,26.6564150962
+"uttar pradesh","kanpur dehat",79.8558505369,26.4387496057
+"uttar pradesh","kanpur nagar",80.2116599731,26.3915696067
+"uttar pradesh","jalaun",79.3876767956,26.0908572406
+"uttar pradesh","jhansi",78.9527326258,25.5071032606
+"uttar pradesh","lalitpur",78.563163819,24.652303433
+"uttar pradesh","hamirpur",79.8797494707,25.7368495585
+"uttar pradesh","mahoba",79.6989537971,25.3485867034
+"uttar pradesh","banda",80.5629434388,25.4654472218
+"uttar pradesh","chitrakoot",81.0892113402,25.2028286922
+"uttar pradesh","fatehpur",80.808862846,25.8730336004
+"uttar pradesh","pratapgarh",81.8286289136,25.8736774302
+"uttar pradesh","kaushambi",81.4183893229,25.495913179
+"uttar pradesh","allahabad",81.9633565637,25.306840996
+"uttar pradesh","barabanki",81.3339167526,26.937036014
+"uttar pradesh","faizabad",81.9961731984,26.6553064393
+"uttar pradesh","ambedkar nagar",82.671797965,26.4227641043
+"uttar pradesh","bahraich",81.4958537683,27.7036919294
+"uttar pradesh","shrawasti",81.9190385559,27.7090793241
+"uttar pradesh","balrampur",82.3896533936,27.4718204861
+"uttar pradesh","gonda",82.0206383293,27.0803667484
+"uttar pradesh","siddharthnagar",82.8857690022,27.2676918999
+"uttar pradesh","basti",82.6279144951,26.8206780352
+"uttar pradesh","s. kabir nagar",83.0332930734,26.7839555879
+"uttar pradesh","maharajganj",83.5395468697,27.1989837048
+"uttar pradesh","gorakhpur",83.3610085586,26.6564583865
+"uttar pradesh","kushinagar",83.9386958189,26.8548709262
+"uttar pradesh","deoria",83.8341022857,26.4223202187
+"uttar pradesh","azamgarh",83.0710717884,26.0458968405
+"uttar pradesh","mau",83.5587855458,26.0445954983
+"uttar pradesh","ballia",84.1009800495,25.8761356225
+"uttar pradesh","jaunpur",82.5780385209,25.7451136431
+"uttar pradesh","ghazipur",83.5574563828,25.6237370463
+"uttar pradesh","chandauli",83.2600453223,25.1407627535
+"uttar pradesh","varanasi",82.9163379181,25.3879136053
+"uttar pradesh","s.r.nagar",82.4704733612,25.3424590449
+"uttar pradesh","mirzapur",82.61835084,24.9830664851
+"uttar pradesh","sonbhadra",83.0541476406,24.3999379953
+"uttar pradesh","etah",78.7087454489,27.5108230551
+"uttar pradesh","kanshiram nagar",78.848690985,27.7709319482
+"bihar","pashchim champaran",84.3418764603,27.078265179
+"bihar","purba champaran",84.9241971594,26.6177771802
+"bihar","sheohar",85.3062850347,26.490998763
+"bihar","sitamarhi",85.5533276972,26.5855551205
+"bihar","madhubani",86.223946393,26.4020965022
+"bihar","supaul",86.8099256753,26.2448037642
+"bihar","araria",87.3646624296,26.1970568
+"bihar","kishanganj",87.9347596814,26.2921889088
+"bihar","purnia",87.405666274,25.8129536629
+"bihar","katihar",87.6418699458,25.548141938
+"bihar","madhepura",86.900364027,25.8221030542
+"bihar","saharsa",86.5925100597,25.8132156147
+"bihar","darbhanga",86.0532607014,26.0885654585
+"bihar","muzaffarpur",85.3321664892,26.1516588676
+"bihar","gopalganj",84.375399671,26.4420595728
+"bihar","siwan",84.3874615435,26.1612251907
+"bihar","saran",84.8246520443,25.9058116147
+"bihar","vaishali",85.3708239697,25.7614351588
+"bihar","samastipur",85.8732582006,25.7733900644
+"bihar","begusarai",86.1313413421,25.4950116516
+"bihar","khagaria",86.6039056913,25.5108254047
+"bihar","bhagalpur",87.0851165294,25.2690245647
+"bihar","banka",86.839560119,24.8528907869
+"bihar","munger",86.528001504,25.2108481278
+"bihar","lakhisarai",86.1356391091,25.1583022632
+"bihar","sheikhpura",85.8395156778,25.1223002695
+"bihar","nalanda",85.4524616044,25.2174652615
+"bihar","patna",85.2248028859,25.4552391214
+"bihar","bhojpur",84.5445728905,25.469824719
+"bihar","buxar",84.1020654011,25.4915995091
+"bihar","kaimur (bhabua)",83.6084296938,24.9919730564
+"bihar","rohtas",84.027962357,24.9790447923
+"bihar","aurangabad",84.410790595,24.7904012894
+"bihar","gaya",84.9369519345,24.6969214154
+"bihar","nawada",85.5928168742,24.8089443451
+"bihar","jamui",86.2962137452,24.7828062645
+"bihar","jehanabad",85.0185861643,25.1550055056
+"bihar","arwal",84.6791944623,25.1633648116
+"sikkim","north district",88.533168144,27.740066567
+"sikkim","west district",88.1831911365,27.345505949
+"sikkim","south district",88.3924699081,27.2772160381
+"sikkim","east district",88.6838277149,27.2958687101
+"arunachal pradesh","tawang",91.9899123325,27.6547991146
+"arunachal pradesh","west kameng",92.4015775196,27.2948762239
+"arunachal pradesh","east kameng",92.9717834768,27.4371672469
+"arunachal pradesh","papum pare",93.583687448,27.2631433757
+"arunachal pradesh","upper subansiri",93.932375898,28.2730985647
+"arunachal pradesh","west siang",94.5069811515,28.3206942443
+"arunachal pradesh","upper siang",94.8999007538,28.8305703817
+"arunachal pradesh","changlang",96.3599088691,27.3753989171
+"arunachal pradesh","lower subansiri",93.56438952,27.8971325928
+"arunachal pradesh","dibang valley",95.8811890864,28.8736753331
+"arunachal pradesh","lower dibang valley",95.8220136154,28.2649209143
+"arunachal pradesh","anjaw",96.8404786771,28.0983008324
+"nagaland","mon",95.0207217396,26.6728082278
+"nagaland","mokokchung",94.5318594763,26.4705903702
+"nagaland","zunheboto",94.4924208519,26.003611212
+"nagaland","wokha",94.1922672468,26.184534195
+"nagaland","dimapur",93.7785035319,25.7617820049
+"nagaland","phek",94.5355253628,25.6485051825
+"nagaland","tuensang",94.8882431162,26.1668419734
+"nagaland","longleng",94.7977627487,26.5529845089
+"nagaland","kiphire",94.8240991711,25.8446933287
+"nagaland","kohima",94.1044128195,25.7602998871
+"nagaland","peren",93.6031423797,25.4810172523
+"manipur","senapati",94.0373974303,25.1919019975
+"manipur","tamenglong",93.5268097812,24.9495261997
+"manipur","churuchandpur",93.4246318565,24.2984663178
+"manipur","bishnupur",93.7991167635,24.5235922467
+"manipur","thoubal",93.9773784827,24.5312702858
+"manipur","imphal west",93.8711417479,24.7676330086
+"manipur","imphal",93.93881,24.817665
+"manipur","ukhrul",94.4312985503,25.0091918411
+"manipur","chandel",94.0909095489,24.2258974342
+"mizoram","mamit",92.4585199433,23.743525472
+"mizoram","kolasib",92.7157527277,24.1369564215
+"mizoram","aizawl",92.8860478876,23.8411411181
+"mizoram","champhai",93.2280202021,23.5407976296
+"mizoram","serchhip",92.9457199702,23.2845235526
+"mizoram","lunglei",92.7111328736,22.9685785362
+"mizoram","lawngtlai",92.7032008307,22.3810379303
+"mizoram","saiha",93.0039166385,22.3833436667
+"tripura","dhalai",91.9322805621,23.8534773281
+"meghalaya","south garo hills",90.6050063082,25.3196154054
+"meghalaya","ri bhoi",91.9015072025,25.8543456559
+"meghalaya","east khasi hills",91.8027744858,25.3762059283
+"meghalaya","jaintia hills",92.3825507199,25.3693517429
+"assam","kokrajhar",90.0526052477,26.5346970006
+"assam","goalpara",90.5864166294,26.0479509653
+"assam","barpeta",90.9897848969,26.2770778178
+"assam","marigaon",92.3157192214,26.2674165723
+"assam","lakhimpur",94.131104341,27.1671348502
+"assam","dhemaji",94.7767945945,27.5801628811
+"assam","tinsukia",95.6270868611,27.5781511502
+"assam","dibrugarh",95.056728467,27.3657746043
+"assam","jorhat",94.2304355564,26.7914585543
+"assam","golaghat",93.8426914888,26.4374713495
+"assam","dima hasao",93.0347461481,25.3792951232
+"assam","cachar",92.8553874895,24.8140194689
+"assam","karimganj",92.3815861244,24.5817997565
+"assam","hailakandi",92.5871980992,24.492365502
+"assam","bongaigaon",90.6420046144,26.5074271466
+"assam","chirang",90.3585973781,26.6286081333
+"assam","nalbari",91.3913096342,26.3460912383
+"assam","baksa",91.351943535,26.6042503688
+"assam","darrang",92.039976908,26.4930053587
+"assam","udalguri",92.2548592235,26.7607134735
+"west bengal","darjiling",88.3821664891,26.9121672938
+"west bengal","koch bihar",89.3453062405,26.2905365531
+"west bengal","uttar dinajpur",88.158434268,25.8832736339
+"west bengal","dakshin dinajpur",88.5788534063,25.3649001196
+"west bengal","maldah",88.0878585852,25.1346665576
+"west bengal","murshidabad",88.2320850138,24.1652163527
+"west bengal","birbhum",87.6659496773,23.9554157393
+"west bengal","barddhaman",87.7724495488,23.426286596
+"west bengal","nadia",88.5210397603,23.4796439959
+"west bengal","north twenty four parganas",88.7347606735,22.7184227464
+"west bengal","hugli",88.0815133516,22.8863553908
+"west bengal","bankura",87.1396745889,23.1384603641
+"west bengal","puruliya",86.4237475888,23.275177572
+"west bengal","haora",88.0680382278,22.5228233237
+"west bengal","kolkata",88.3540514155,22.5258872717
+"west bengal","south  twenty four parganas",88.5256229509,22.0479003936
+"west bengal","paschim medinipur",87.2672256324,22.4140372366
+"west bengal","purba medinipur",87.7865288324,22.0297593284
+"jharkhand","garhwa",83.6976525081,24.1040281349
+"jharkhand","chatra",84.8882827023,24.172302863
+"jharkhand","koderma",85.6960538761,24.5034072545
+"jharkhand","giridih",86.1121928265,24.2902400389
+"jharkhand","deoghar",86.7424684995,24.3273131244
+"jharkhand","godda",87.3101531977,24.8584198842
+"jharkhand","sahibganj",87.6701912345,25.0121196427
+"jharkhand","pakaur",87.6611668463,24.5641478494
+"jharkhand","dhanbad",86.4712539611,23.8255799803
+"jharkhand","bokaro",85.99555118,23.691208801
+"jharkhand","lohardaga",84.6664816321,23.4749522952
+"jharkhand","purbi singhbhum",86.4496640762,22.5776325645
+"jharkhand","palamu",84.168236394,24.1959648743
+"jharkhand","latehar",84.4463811715,23.7158724886
+"jharkhand","hazaribagh",85.4223870639,24.0706337924
+"jharkhand","ramgarh",85.5641858286,23.6337993785
+"jharkhand","dumka",87.2688363325,24.3195871739
+"jharkhand","jamtara",86.9126555705,23.9739685661
+"jharkhand","ranchi",85.3732000732,23.3293257496
+"jharkhand","khunti",85.2655837205,22.9916433138
+"jharkhand","gumla",84.534498991,23.100330389
+"jharkhand","simdega",84.5652664874,22.5801602674
+"jharkhand","pashchimi singhbhum",85.5112450072,22.4140021974
+"jharkhand","sarikela-kharswana",85.9527550521,22.8447369964
+"orissa","bargarh",83.3662296087,21.2265047242
+"orissa","jharsuguda",83.9599185095,21.8070689364
+"orissa","sambalpur",84.2808395138,21.4513949182
+"orissa","debagarh",84.7806537457,21.4652586931
+"orissa","sundargarh",84.5042674009,22.0823454491
+"orissa","kendujhar",85.6996637765,21.5365833747
+"orissa","mayurbhanj",86.4026376693,21.8975029403
+"orissa","baleshwar",86.9129250569,21.5038619978
+"orissa","bhadrak",86.6148207533,20.9868037794
+"orissa","kendrapara",86.6098483896,20.5555159305
+"orissa","jagatsinghapur",86.3402074651,20.219563393
+"orissa","cuttack",85.7175783561,20.4522388593
+"orissa","jajapur",86.147306075,20.8588590459
+"orissa","dhenkanal",85.526939091,20.8263662544
+"orissa","anugul",84.9083491323,20.9875637409
+"orissa","nayagarh",85.0022131629,20.2183760739
+"orissa","khordha ",85.5203305152,20.0917971478
+"orissa","puri",85.7238191455,19.8761936017
+"orissa","ganjam",84.6737658833,19.619577623
+"orissa","gajapati",84.1640087816,19.1824996492
+"orissa","kandhamal",84.0471795721,20.1251328917
+"orissa","baudh",84.1735974363,20.6450866295
+"orissa","sonapur",83.895765,20.847471
+"orissa","balangir",83.1812599147,20.5954542044
+"orissa","nuapada",82.5983524534,20.4772392434
+"orissa","kalahandi",83.1088030274,19.8677925015
+"orissa","rayagada",83.5097944051,19.3622472759
+"orissa","nabarangapur",82.3356198203,19.5731007837
+"orissa","koraput",82.7261639956,18.8042998674
+"orissa","malkangiri",81.9509723329,18.2577657583
+"chhattisgarh","koriya",82.2364731262,23.4687042525
+"chhattisgarh","jashpur",83.864646204,22.7995992943
+"chhattisgarh","raigarh",83.3088510943,22.0804910659
+"chhattisgarh","korba",82.6090872739,22.5339673201
+"chhattisgarh","janjgir - champa",82.7360188553,21.926919856
+"chhattisgarh","kabeerdham",81.2241168179,22.0919603578
+"chhattisgarh","rajnandgaon",80.8208100813,21.0386350202
+"chhattisgarh","mahasamund",82.612063807,21.208104396
+"chhattisgarh","dhamtari",81.8100509388,20.5546322598
+"chhattisgarh","uttar bastar",81.1232059381,20.1340046871
+"chhattisgarh","narayanpur",81.0948847775,19.5773667768
+"chhattisgarh","bijapur",80.8066056622,18.8673842072
+"madhya pradesh","sheopur",77.009014955,25.7527937174
+"madhya pradesh","morena",77.8723571947,26.4125435074
+"madhya pradesh","bhind",78.7231801582,26.4212004141
+"madhya pradesh","gwalior",78.1472472818,26.0390717223
+"madhya pradesh","datia",78.5989783056,25.8010852979
+"madhya pradesh","shivpuri",77.8062254082,25.3647623443
+"madhya pradesh","tikamgarh",78.9465317272,24.9884651064
+"madhya pradesh","chhatarpur",79.6659835394,24.796554888
+"madhya pradesh","panna",80.1909952472,24.4212325026
+"madhya pradesh","sagar",78.7601776252,23.8488417837
+"madhya pradesh","damoh",79.5280307524,23.8122497351
+"madhya pradesh","satna",80.8326688303,24.5280021276
+"madhya pradesh","rewa",81.5897070499,24.7520944213
+"madhya pradesh","umaria",80.9762483889,23.5606815312
+"madhya pradesh","neemuch",75.1419045089,24.59125422
+"madhya pradesh","mandsaur",75.4062444059,24.203840696
+"madhya pradesh","ratlam",75.0893052232,23.501579975
+"madhya pradesh","ujjain",75.6700510972,23.3308634061
+"madhya pradesh","dewas",76.4580384794,22.7433973434
+"madhya pradesh","dhar",75.1043181578,22.497215823
+"madhya pradesh","indore",75.7828736108,22.712331184
+"madhya pradesh","west nimar",75.7677698894,21.9115945051
+"madhya pradesh","barwani",75.0105073214,21.7942736674
+"madhya pradesh","rajgarh",76.7327841633,23.8610843046
+"madhya pradesh","vidisha",77.8141387262,23.8918144342
+"madhya pradesh","bhopal",77.3912633224,23.4696340642
+"madhya pradesh","sehore",77.1283245523,22.9870230089
+"madhya pradesh","raisen",78.122222301,23.219019468
+"madhya pradesh","betul",77.8721231306,21.8781769143
+"madhya pradesh","harda",77.1253929436,22.2317700818
+"madhya pradesh","hoshangabad",77.9916626534,22.5899153479
+"madhya pradesh","katni",80.4014496648,23.7502351405
+"madhya pradesh","jabalpur",79.9757689334,23.2303898173
+"madhya pradesh","narsimhapur",79.0891908269,22.9353885964
+"madhya pradesh","dindori",81.0506379418,22.8874930943
+"madhya pradesh","mandla",80.5107457155,22.637769566
+"madhya pradesh","chhindwara",78.8557107038,22.1220001618
+"madhya pradesh","seoni",79.6907496779,22.3161689647
+"madhya pradesh","balaghat",80.3605707633,21.8798481823
+"madhya pradesh","guna",77.1955589493,24.5563716182
+"madhya pradesh","ashoknagar",77.8713337165,24.6076948829
+"madhya pradesh","shahdol",81.4759038806,23.6313716648
+"madhya pradesh","anuppur",81.6831481805,23.0558097417
+"madhya pradesh","sidhi",81.8299319545,24.220942322
+"madhya pradesh","singrauli",82.4172380896,24.2135926743
+"madhya pradesh","jhabua",74.6723918343,22.8917732104
+"madhya pradesh","alirajpur",74.3647069471,22.3142018113
+"madhya pradesh","east nimar",76.5711149005,21.9397259482
+"madhya pradesh","burhanpur",76.3704682198,21.3758009671
+"gujarat","kachchh",69.923287082,23.6271262808
+"gujarat","banas kantha",72.0263029748,24.2867396619
+"gujarat","patan",71.7626610823,23.7686210267
+"gujarat","mahesana",72.4671453658,23.611010717
+"gujarat","gandhinagar",72.6907147944,23.2613530345
+"gujarat","porbandar",69.7776497295,21.6537226368
+"gujarat","amreli",71.2498752613,21.4238297667
+"gujarat","anand",72.7920886754,22.4557027229
+"gujarat","dohad",74.1104140911,22.8596858117
+"gujarat","narmada",73.645559561,21.7361344112
+"gujarat","bharuch",72.916125288,21.7833072695
+"gujarat","the dangs",73.7012188159,20.8038154487
+"gujarat","navsari",73.0941414401,20.8143281679
+"gujarat","valsad",73.1196583905,20.417283559
+"gujarat","surat",73.0737820763,21.2671278862
+"gujarat","tapi",73.6276954108,21.1920137892
+"daman & diu","diu",70.9366095581,20.7198094666
+"daman & diu","daman",72.8589897976,20.4129384728
+"dadra & nagar haveli","dadra & nagar haveli",73.0706625126,20.194844037
+"maharashtra","nandurbar",74.2164520629,21.5467258606
+"maharashtra","dhule",74.5995330439,21.1097338437
+"maharashtra","jalgaon",75.4877431929,20.9308180107
+"maharashtra","buldana",76.407235166,20.5047359231
+"maharashtra","akola",77.0560541446,20.7490340962
+"maharashtra","washim",77.2150616617,20.2286392537
+"maharashtra","amravati",77.5744750593,21.1873616623
+"maharashtra","wardha",78.5871586421,20.7970792743
+"maharashtra","nagpur",79.0847048851,21.1767601984
+"maharashtra","bhandara",79.7592807616,21.1164909951
+"maharashtra","gondiya",80.2165786152,21.1620901819
+"maharashtra","gadchiroli",80.242725603,19.7877095944
+"maharashtra","chandrapur",79.4422821363,20.1165840181
+"maharashtra","yavatmal",78.1614643999,20.0816538046
+"maharashtra","nanded",77.6157974182,19.1117895266
+"maharashtra","hingoli",77.0983290223,19.639746121
+"maharashtra","parbhani",76.6919867201,19.2677866015
+"maharashtra","jalna",75.9834877616,19.8026245966
+"maharashtra","aurangabad",75.2826700201,20.0259458112
+"maharashtra","nashik",74.067869726,20.2596117843
+"maharashtra","mumbai (suburban)",72.8784892651,19.1430753155
+"maharashtra","mumbai",72.8427391804,18.9893018892
+"maharashtra","raigarh",73.2261834972,18.509530924
+"maharashtra","pune",74.071939794,18.5712869882
+"maharashtra","ahmadnagar",74.6730525121,19.2136650956
+"maharashtra","bid",75.833621676,18.9508316395
+"maharashtra","latur",76.7575080612,18.375770281
+"maharashtra","osmanabad",76.033767744,18.1956534813
+"maharashtra","solapur",75.4834730209,17.7936259897
+"maharashtra","satara",74.1735592607,17.6683402952
+"maharashtra","ratnagiri",73.4540181257,17.2746230377
+"maharashtra","sindhudurg",73.737760733,16.1323525173
+"maharashtra","kolhapur",74.1521740955,16.4899989098
+"maharashtra","sangli",74.7945925913,17.113329748
+"telangana","adilabad",78.9765318241,19.252876448
+"telangana","nizamabad",78.1429296278,18.5245543135
+"telangana","karimnagar",79.2349897256,18.5481440104
+"telangana","medak",78.2128725765,17.8850584648
+"telangana","hyderabad",78.4704140271,17.3977194738
+"telangana","rangareddi",78.1725036718,17.2848933337
+"telangana","mahbubnagar",78.1478115362,16.4936687994
+"telangana","nalgonda",79.2887520234,17.0663856508
+"telangana","warangal",79.7989517646,17.9555114423
+"telangana","khammam",80.6905197981,17.5944582591
+"andhra pradesh","srikakulam",84.0138770807,18.58943992
+"andhra pradesh","vizianagaram",83.3876548475,18.459332882
+"andhra pradesh","visakhapatnam",82.6847495985,17.8831791048
+"andhra pradesh","east godavari",82.0062720338,17.191018771
+"andhra pradesh","west godavari",81.4003747575,16.8873630837
+"andhra pradesh","krishna",80.7988387606,16.5565077349
+"andhra pradesh","guntur",80.0805868371,16.2922831576
+"andhra pradesh","prakasam",79.5162974694,15.615710413
+"andhra pradesh","nellore",79.98654,14.444338
+"andhra pradesh","ysr",78.7821944572,14.4625375714
+"andhra pradesh","kurnool",78.0010320015,15.5310762721
+"andhra pradesh","anantapur",77.5742413255,14.4805245799
+"andhra pradesh","chittoor",79.005894985,13.4637221186
+"karnataka","belgaum",74.8238920187,16.1195531317
+"karnataka","bagalkot",75.6259028769,16.2199901729
+"karnataka","bijapur",75.953183959,16.793685538
+"karnataka","bidar",77.2246184734,17.9511102533
+"karnataka","raichur",76.89296267,16.0895814619
+"karnataka","koppal",76.2221160072,15.5616946852
+"karnataka","gadag",75.6659779454,15.4295979469
+"karnataka","dharwad",75.153714409,15.3891687374
+"karnataka","uttara kannada",74.6201828872,14.7897051996
+"karnataka","haveri",75.4160734951,14.7383785103
+"karnataka","bellary",76.5333093009,15.1091221326
+"karnataka","chitradurga",76.5158545024,14.1666978257
+"karnataka","davanagere",75.951390712,14.4019055713
+"karnataka","shimoga",75.2200878513,14.0386512373
+"karnataka","udupi",74.8734667641,13.4888702725
+"karnataka","chikmagalur",75.6920743801,13.4483000561
+"karnataka","tumkur",76.9482257542,13.5206460603
+"karnataka","bangalore",77.5907874348,12.9498848226
+"karnataka","mandya",76.7988523695,12.6108843982
+"karnataka","hassan",76.1109721855,12.995088775
+"karnataka","dakshina kannada",75.2542093987,12.8456889519
+"karnataka","kodagu",75.8009614037,12.3220731512
+"karnataka","mysore",76.4399479916,12.2087791751
+"karnataka","chamarajanagar",77.0988891934,11.9575516475
+"karnataka","gulbarga",76.8696011875,17.2571324307
+"karnataka","yadgir",76.9132999781,16.6235015901
+"karnataka","kolar",78.2175074861,13.1401469938
+"karnataka","chikkaballapura",77.8346551439,13.5787999507
+"karnataka","bangalore rural",77.5793096062,13.2249718358
+"karnataka","ramanagara",77.3369089576,12.6773436796
+"goa","north goa",73.9807764959,15.5515765282
+"goa","south goa",74.1180874437,15.1964393353
+"lakshadweep","lakshadweep",72.3889330204,11.4935608952
+"kerala","kasaragod",75.1455352627,12.4613852628
+"kerala","kannur",75.5213539783,11.9991126314
+"kerala","wayanad",76.1011953196,11.7060769374
+"kerala","kozhikode",75.8354042363,11.4844279764
+"kerala","malappuram",76.156565652,11.1310899438
+"kerala","palakkad",76.5576310385,10.7928493077
+"kerala","thrissur",76.3187463672,10.4682342146
+"kerala","ernakulam",76.5452437727,10.0806438198
+"kerala","idukki",77.0527099727,9.8424189047
+"kerala","kottayam",76.6540324813,9.6425790377
+"kerala","alappuzha",76.4497509763,9.4185780696
+"kerala","pathanamthitta",76.9282265212,9.2818428596
+"kerala","kollam",76.8724009317,8.9579423019
+"kerala","thiruvananthapuram",77.0091872416,8.606831084
+"tamilnadu","thiruvallur",79.9482813063,13.2293875177
+"tamilnadu","chennai",80.2452190305,13.0380605936
+"tamilnadu","kancheepuram",79.9405224838,12.6624566851
+"tamilnadu","vellore",79.0110018489,12.8098617283
+"tamilnadu","tiruvannamalai",79.1696037714,12.4320629653
+"tamilnadu","viluppuram",79.2904803509,11.9704883546
+"tamilnadu","salem",78.2252240583,11.6760417271
+"tamilnadu","namakkal",78.1385309188,11.3175578733
+"tamilnadu","erode",77.4158583235,11.5029923398
+"tamilnadu","the nilgiris",76.6421846735,11.4572754458
+"tamilnadu","dindigul",77.8204238899,10.3890341608
+"tamilnadu","karur",78.138494558,10.8449995357
+"tamilnadu","tiruchirappalli",78.5744774412,10.893359549
+"tamilnadu","perambalur",78.8916502942,11.2740957444
+"tamilnadu","ariyalur",79.2444538318,11.1625574292
+"tamilnadu","cuddalore",79.4517023567,11.5343348683
+"tamilnadu","nagapattinam",79.7403503803,10.8440986293
+"tamilnadu","thiruvarur",79.5400136123,10.6739736675
+"tamilnadu","thanjavur",79.2474939144,10.6762931748
+"tamilnadu","pudukkottai",78.8777396103,10.364894298
+"tamilnadu","sivaganga",78.6021837303,9.9162911552
+"tamilnadu","madurai",77.9996740209,9.9190399031
+"tamilnadu","theni",77.4199789062,9.8775779881
+"tamilnadu","virudhunagar",77.9056455451,9.4925265276
+"tamilnadu","ramanathapuram",78.6795790016,9.4375549706
+"tamilnadu","thoothukkudi",78.004027603,8.8900206055
+"tamilnadu","tirunelveli",77.541102561,8.7961604724
+"tamilnadu","kanniyakumari",77.358621506,8.3058316672
+"tamilnadu","dharmapuri",78.1910914184,12.0972145977
+"tamilnadu","krishnagiri",78.0333224277,12.4883748218
+"tamilnadu","coimbatore",76.9697688048,10.8557604559
+"tamilnadu","tiruppur",77.3889019189,10.8415263016
+"puducherry","yanam",82.2577762961,16.7209657892
+"puducherry","puducherry",79.7395591941,11.9117173951
+"puducherry","mahe",75.5406230612,11.7240297579
+"puducherry","karaikal",79.8040571847,10.9322972415
+"andaman & nicobar islands","nicobars",93.8055549907,7.0271553775
+"andaman & nicobar islands","north  & middle andaman",92.8298641235,12.6022632322
+"andaman & nicobar islands","south andaman",92.6057532235,11.4477911277
+"uttar pradesh","rae bareli",81.2291947887,26.2289926425
+"uttar pradesh","sultanpur",82.0173579987,26.2763346544
+"uttar pradesh","chhatrapati shahuji maharaja nagar",82.0173579987,26.2763346544
+"punjab","gurdaspur",75.4006329786,32.0060417562
+"punjab","firozpur",74.4127005274,30.546263491
+"arunachal pradesh","tirap",95.4457790243,26.9393481249
+"arunachal pradesh","longding",95.305643,26.880121
+"tripura","west tripura",91.4646363944,23.8049183189
+"tripura","khowai",91.605785,24.067055
+"tripura","sepahijala",91.322097,23.668935
+"tripura","south tripura",91.6072575961,23.3745178222
+"tripura","gomati",91.583786,23.568683
+"tripura","north tripura",92.1595119925,24.1368504507
+"tripura","unakoti",92.035044,24.239961
+"chhattisgarh","surguja",83.2177252803,23.3576608719
+"chhattisgarh","bilaspur",81.9606156078,22.3490843886
+"chhattisgarh","durg",81.3551798659,21.1949998433
+"chhattisgarh","raipur",82.1799017143,21.0539107799
+"chhattisgarh","bastar",81.7718288659,19.422599436
+"chhattisgarh","dakshin bastar",83.3088510943,22.0804910659
+"meghalaya","east garo hills",90.6844183361,25.7292565831
+"meghalaya","west garo hills",90.176892759,25.6158353721
+"meghalaya","west khasi hills",91.2613659487,25.5241475031
+"delhi","central",77.2298215187,28.6436233864
+"delhi","east",77.2986745939,28.6300927342
+"delhi","new delhi",77.2117647321,28.6092998973
+"delhi","north",77.2135173307,28.7163671481
+"delhi","north east",77.278481118,28.7058222281
+"delhi","north west",77.0866637658,28.7711934835
+"delhi","south",77.2288584316,28.5019176034
+"delhi","south west",77.0262234552,28.571390161
+"delhi","west",77.0626397396,28.6577901434
+"madhya pradesh","shajapur",76.3452397962,23.5789906945
+"gujarat","sabar kantha",73.1633263513,23.6580680723
+"gujarat","ahmedabad",72.1985024896,22.714614569
+"gujarat","bhavnagar",71.8572287533,21.6701940101
+"gujarat","rajkot",70.7755197814,22.2625961366
+"gujarat","surendranagar",71.5412545883,22.7937678021
+"gujarat","jamnagar",69.9124666121,22.2527320399
+"gujarat","junagadh",70.5675180133,21.1974014453
+"gujarat","kheda",73.016341569,22.8767831463
+"gujarat","panch mahals",73.6596173917,22.903524982
+"gujarat","vadodara",73.5340468885,22.2342069658
+"uttar pradesh","muzaffarnagar",77.5902997297,29.4442552383
+"uttar pradesh","moradabad",78.7127734488,28.7614659227
+"uttar pradesh","budaun",78.9425665044,28.112745293
+"uttar pradesh","ghaziabad",77.7028772557,28.7416685484
+"west bengal","jalpaiguri",89.0763679545,26.6594773872
+"maharashtra","thane",73.1523647868,19.6035668128
+"arunachal pradesh","lohit",96.2293403204,27.8527196668
+"arunachal pradesh","kurung kumey",93.4516602354,27.7532159964
+"assam","dhubri",90.0195048744,26.0903891957
+"assam","nagaon",92.8777844958,26.2085632251
+"assam","sonitpur",93.0839690569,26.8035274982
+"assam","karbi anglong",93.154120721,26.0774921255
+"arunachal pradesh","east siang",95.1465404354,28.1235368585
+"assam","kamrup",91.3568376448,26.079543078
+"assam","kamrup metropolitan",91.7817676252,26.0853842776
+"chhattisgarh","surajpur","82.844579","23.220758"
+"chhattisgarh","balrampur","83.686886","23.757788"
+"chhattisgarh","mungeli","81.686053","22.068698"
+"chhattisgarh","bemetara","81.5596427","21.6894372"
+"chhattisgarh","balod","81.203009","20.731490"
+"chhattisgarh","baloda bazar","82.158616","21.656988"
+"chhattisgarh","gariaband","82.0597816","20.6338593"
+"chhattisgarh","kondagaon","81.663103","19.595804"
+"chhattisgarh","sukma","81.659742","18.391537"
+"meghalaya","north garo hills","90.4879916","25.8986758"
+"meghalaya","west jaintia hills","92.341887","25.5021272"
+"meghalaya","east jaintia hills","92.4999918","25.3100768"
+"meghalaya","south west garo hills","90.2244662","25.5679372"
+"meghalaya","south west khasi hills","91.2506002","25.3258908"
+"delhi","shahdara","77.2925771","28.6987568"
+"delhi","south east delhi","77.1024902","28.7040592"
+"madhya pradesh","agar malwa",76.010103,23.71393
+"gujarat","aravalli","81.6048765","16.6315742"
+"gujarat","botad","71.6684269","22.1704232"
+"gujarat","morbi","70.9071236","22.8652145"
+"gujarat","devbhoomi dwarka","69.3831079","22.1232327"
+"gujarat","gir somnath","70.7168469","21.0119385"
+"gujarat","mahisagar","73.5594128","23.1711262"
+"gujarat","chhota udaipur","73.9359821","22.2844065"
+"uttar pradesh","prabudh nagar",77.5575560485,28.3922371628
+"uttar pradesh","sambhal","78.5717631","28.5903614"
+"uttar pradesh","panchsheel nagar","78.0651931","28.7474998"
+"west bengal","alipurduar","89.5271026","26.4918891"
+"maharashtra","palghar","72.7655184","19.6935581"
+"arunachal pradesh","namsai","95.8644018","27.6692115"
+"assam","south salmara-mankachar",89.900844,25.713034
+"assam","hojai","92.847737","26.0016601"
+"assam","biswanath","93.489698","26.709752"
+"assam","sibsagar","94.645035","27.0030804"
+"assam","charaideo",94.876858,26.941284
+"assam","west karbi anglong","93.5812692","26.186085"
+"arunachal pradesh","siang","95.1432068","28.1097051"
