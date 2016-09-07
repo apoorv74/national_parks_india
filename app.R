@@ -104,7 +104,7 @@ server <-
       distance_df <- arrange(distance_df,distance)
       rm(distance_master)
       rm(distance)
-      str0 <- 'Top 5 national parks closet to your district: '
+      str0 <- 'Top 5 national parks closest to your district: '
       for(j in 1:5){
         assign(paste0('str',j),paste0(j,'. <b>',distance_df$park_name[j],'</b> in - ',distance_df$district[j], ', State - ',distance_df$state[j]))
       }
