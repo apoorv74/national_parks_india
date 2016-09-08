@@ -8,8 +8,16 @@ ui <-
   fluidRow(
     column(2, "  "), column(8, box(width = NULL,
                                    uiOutput("infoTable"))), column(2, " ")
-  )))
+  ),
+  
+  fluidRow(
+    column(5, "  "), column(2, box(width = NULL,
+                                   uiOutput("current_moon"))), column(5, " ")
+  )
+  
+  ))
 server <- shinyServer(function(input, output) {
+  
   output$infoTable <- renderUI({
     url <- 'http://www.timeanddate.com/moon/phases/'
     xpath <- '//*[@id="mn-cyc"]'
@@ -50,6 +58,31 @@ server <- shinyServer(function(input, output) {
                    tags$td(img(src = moon_phases[4, 3], height=80,width=80))
                  )
                ))
+  })
+  
+  output$current_moon <- renderUI({
+    url <- 'http://www.timeanddate.com/astronomy/india'
+    css_path <- '#cur-moon'
+    
+    moon_image <-
+      url %>% read_html() %>% html_nodes(css = css_path) %>% html_attr('src')
+    moon_image <- paste0('http://www.timeanddate.com/',moon_image)
+    
+    css_path <- '#cur-moon-percent'
+    moon_percent <-
+      url %>% read_html() %>% html_nodes(css = css_path) %>% html_text()
+    
+    xpath <- '//*[@id="qlook"]/p'
+    moon_name <-
+      url %>% read_html() %>% html_nodes(xpath = xpath) %>% html_text()
+    
+    
+    current_moon <- data.frame(moon_image,moon_percent,moon_name)
+    rm(moon_image);rm(moon_percent);rm(moon_name)
+  
+    span(h4('Current moon'),p(img(src = current_moon$moon_image, height=120,width=120)),
+    h6(current_moon$moon_percent,align='center'),
+    h6(current_moon$moon_name,align='center'))
   })
 })
 
